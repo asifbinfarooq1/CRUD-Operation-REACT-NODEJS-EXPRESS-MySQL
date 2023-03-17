@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.cols{
+    background-color: aqua;
+}
+
+.btn-add{
+   margin-left: 30px;
+}
+.userData{
+    background-color: cadetblue;
+    
+    color: white;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.btn{
+    background-color: chocolate;
+    color: white;
+    border-radius: 5px;
+}
