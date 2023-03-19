@@ -1,4 +1,4 @@
-# CRUD-Operation-REACT-NODEJS-EXPRESS-MONGODB
+# CRUD-Operation-REACT-NODEJS-EXPRESS-MySQL
 
 # Getting Started with Create React App
 
